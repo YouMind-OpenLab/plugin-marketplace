@@ -1,7 +1,22 @@
 {
-  "name": "youmind-openlab",
+  "name": "youmind",
   "interface": {
-    "displayName": "YouMind OpenLab"
+    "displayName": "YouMind"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "gmail",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openai/plugins.git",
+        "path": "./plugins/gmail",
+        "ref": "603a6e80711116e3584c33ecb8897548ed03d4f6"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }
