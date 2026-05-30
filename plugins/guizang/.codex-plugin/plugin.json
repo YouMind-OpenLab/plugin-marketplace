@@ -1,0 +1,26 @@
+{
+  "name": "guizang",
+  "version": "0.1.0",
+  "description": "A collection of Claude Code and Codex skills published by Guizang.",
+  "author": {
+    "name": "Guizang",
+    "url": "https://github.com/op7418"
+  },
+  "homepage": "https://github.com/op7418?tab=repositories",
+  "repository": "https://github.com/op7418",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Guizang Skills",
+    "shortDescription": "Creative and automation skills by Guizang",
+    "longDescription": "A curated collection of Guizang's public Claude Code and Codex skills for social cards, slide decks, video workflows, logo generation, humanized writing, IM bridges, desk-card devices, and document illustration.",
+    "developerName": "Guizang",
+    "category": "Creative",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/op7418",
+    "defaultPrompt": [
+      "Create a Guizang-style Xiaohongshu carousel from this article",
+      "Turn this document into a polished magazine-style HTML slide deck",
+      "Generate a logo concept and export-ready design notes"
+    ]
+  }
+}

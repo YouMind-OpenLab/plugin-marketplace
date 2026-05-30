@@ -15,6 +15,18 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Design"
+    },
+    {
+      "name": "guizang",
+      "source": {
+        "source": "local",
+        "path": "./plugins/guizang"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creative"
     }
   ]
 }
