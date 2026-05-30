@@ -1,0 +1,22 @@
+{
+  "name": "zara-zhang",
+  "version": "0.1.0",
+  "description": "AI agent skills published by Zara Zhang for content capture, courses, digests, presentations, podcasts, and ebooks.",
+  "author": {
+    "name": "Zara Zhang",
+    "url": "https://github.com/zarazhangrui"
+  },
+  "homepage": "https://github.com/zarazhangrui",
+  "repository": "https://github.com/zarazhangrui",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Zara Zhang Skills",
+    "shortDescription": "Content, learning, digest, presentation, podcast, and ebook skills",
+    "longDescription": "A collection of Zara Zhang's public agent skills for voice-first content capture, turning codebases into interactive courses, following AI builders, creating frontend slide decks, generating personalized podcasts, and transforming YouTube videos into ebooks.",
+    "developerName": "Zara Zhang",
+    "category": "Creative",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/zarazhangrui",
+    "defaultPrompt": []
+  }
+}
