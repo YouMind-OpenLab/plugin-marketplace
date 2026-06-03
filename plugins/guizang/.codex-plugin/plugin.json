@@ -12,7 +12,7 @@
   "interface": {
     "displayName": "Guizang Skills",
     "shortDescription": "Creative and automation skills by Guizang",
-    "longDescription": "A curated collection of Guizang's public Claude Code and Codex skills for social cards, slide decks, video workflows, logo generation, humanized writing, IM bridges, desk-card devices, and document illustration.",
+    "longDescription": "A curated collection of Guizang's public Claude Code and Codex skills for social cards, slide decks, video workflows, logo generation, humanized writing, and document illustration.",
     "developerName": "Guizang",
     "category": "Creative",
     "capabilities": ["Read", "Write"],
