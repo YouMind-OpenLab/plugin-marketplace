@@ -17,7 +17,11 @@
     "category": "Creative",
     "capabilities": ["Read", "Write"],
     "websiteURL": "https://github.com/zarazhangrui",
-    "defaultPrompt": [],
+    "defaultPrompt": [
+      "Turn this codebase into an interactive course",
+      "Create an animated HTML slide deck from this outline",
+      "Transform this YouTube video into an ebook article"
+    ],
     "brandColor": "#f6f2ee",
     "composerIcon": "./assets/avatar.jpg",
     "logo": "./assets/avatar.jpg"
