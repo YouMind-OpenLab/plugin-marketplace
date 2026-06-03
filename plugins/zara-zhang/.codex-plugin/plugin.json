@@ -17,6 +17,9 @@
     "category": "Creative",
     "capabilities": ["Read", "Write"],
     "websiteURL": "https://github.com/zarazhangrui",
-    "defaultPrompt": []
+    "defaultPrompt": [],
+    "brandColor": "#f6f2ee",
+    "composerIcon": "./assets/avatar.jpg",
+    "logo": "./assets/avatar.jpg"
   }
 }

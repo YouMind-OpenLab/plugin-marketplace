@@ -21,6 +21,9 @@
       "Create a Guizang-style Xiaohongshu carousel from this article",
       "Turn this document into a polished magazine-style HTML slide deck",
       "Generate a logo concept and export-ready design notes"
-    ]
+    ],
+    "brandColor": "#f6f2ee",
+    "composerIcon": "./assets/avatar.jpg",
+    "logo": "./assets/avatar.jpg"
   }
 }

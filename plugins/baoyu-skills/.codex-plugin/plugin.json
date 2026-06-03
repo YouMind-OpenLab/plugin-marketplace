@@ -22,6 +22,9 @@
       "Turn this article into Xiaohongshu image cards",
       "Create a polished infographic from this document",
       "Convert this URL into clean Markdown"
-    ]
+    ],
+    "brandColor": "#f5f5f2",
+    "composerIcon": "./assets/avatar.jpg",
+    "logo": "./assets/avatar.jpg"
   }
 }
