@@ -11,7 +11,7 @@
   "repository": "https://github.com/JimLiu/baoyu-skills",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Baoyu Skills",
+    "displayName": "Baoyu",
     "shortDescription": "Content, image, publishing, and utility skills by Baoyu",
     "longDescription": "A curated collection of Baoyu's public Claude Code and Codex skills for article illustration, image cards, comics, diagrams, slide decks, translation, Markdown and HTML workflows, social publishing, URL extraction, and image generation backends.",
     "developerName": "Jim Liu (宝玉)",

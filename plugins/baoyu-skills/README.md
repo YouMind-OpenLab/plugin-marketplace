@@ -1,4 +1,4 @@
-# Baoyu Skills
+# Baoyu
 
 This plugin vendors the public skills from [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills).
 

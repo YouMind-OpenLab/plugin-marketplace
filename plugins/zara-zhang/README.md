@@ -1,4 +1,4 @@
-# Zara Zhang Skills
+# Zara Zhang
 
 This plugin indexes public skills from [zarazhangrui](https://github.com/zarazhangrui).
 

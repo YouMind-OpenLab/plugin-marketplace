@@ -1,4 +1,4 @@
-# Guizang Skills
+# Guizang
 
 This plugin indexes public Claude Code and Codex skills published by Guizang.
 

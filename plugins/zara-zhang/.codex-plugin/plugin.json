@@ -10,7 +10,7 @@
   "repository": "https://github.com/zarazhangrui",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Zara Zhang Skills",
+    "displayName": "Zara Zhang",
     "shortDescription": "Content, learning, digest, presentation, podcast, and ebook skills",
     "longDescription": "A collection of Zara Zhang's public agent skills for voice-first content capture, turning codebases into interactive courses, following AI builders, creating frontend slide decks, generating personalized podcasts, and transforming YouTube videos into ebooks.",
     "developerName": "Zara Zhang",
